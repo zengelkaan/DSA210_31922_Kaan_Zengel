@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-For the rest of the semester, I will analyze the key factors that contribute to team success in the Turkish Football Süper Lig. By examining factors like squad value, player age, running distance, match scheduling, attacking pressure, ball possession, shooting frequency,and passing efficiency, I aim to determine which indicators have the strongest effect on overall league standings. Using data visualization and statistical tools, I will examine match data and financial data, and evaluate whether these factors translate into better performance on the field. My goal is to provide insights into what influences team success in the Turkish Football Super League. 
+For the rest of the semester, I will analyze the key factors that contribute to team success in the Turkish Football Süper Lig. By examining factors like squad value, player age, running distance, match scheduling, attacking pressure, ball possession, shooting frequency,and passing efficiency, I aim to determine which indicators have the strongest effect on overall league standings. Using data visualization and statistical tools, I will examine match data and financial data, and evaluate whether these factors translate into better performance on the field. My goal is to provide insights into what influences team success in the Turkish Football Süper Lig. 
 
 ## Objectives  
 
@@ -42,6 +42,7 @@ I find it very exciting to analyze these and gain insights. I want to predict wh
 ### **Match & Performance Data**
 - **Ball Possession**
 - **Shots per Match**
+- **Passing Accuracy**
 - **Penalty Box Touches per Match**
 - **Player Running Distance per Match** 
 - **Match Scheduling** 
@@ -85,7 +86,7 @@ For data analysis and visualization, I will use:
 
 ## Example Analysis  
 
-To illustrate, I’ll create a scatter plot to visualize the relationship between squad market value and team success. The x-axis will represent squad market value (in millions of euros), and the y-axis will show points won by the team. If there’s a clear upward trend, it might suggest that financially stronger teams tend to win the game more.  
+To illustrate, I’ll create a scatter plot to visualize the relationship between squad market value and team success. The x-axis will represent squad market value (in millions of euros), and the y-axis will show team's win, draw, and loss percentages. If there’s a clear upward trend, it might suggest that financially stronger teams tend to win the game more.  
 
 Another example involves comparing team performance on weekday vs. weekend matches. By grouping match outcomes into weekday (Monday–Friday) and weekend (Saturday–Sunday), I can analyze which schedule teams win matches more frequently. If teams consistently perform worse on weekdays, it could indicate that shorter recovery times, fixture congestion, or the number of fans negatively impact results.  
 
@@ -102,7 +103,7 @@ By the end of this project, I hope to answer:
 - Do teams struggle more in weekday matches compared to weekends?  
 - Can we accurately predict team performance using ML models?
 
-This project will provide valuable football analytics insights while applying data science and machine learning to a real-world problem.I want to analyze past data and predict this year's champion based on the data.
+This project will provide valuable football analytics insights while applying data science and machine learning to a real-world problem.I want to analyze past data and predict the win, draw, and loss percentages of the teams in the Turkish Football Süper Lig.
 
 
 
