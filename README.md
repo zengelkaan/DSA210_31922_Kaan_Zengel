@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-For the rest of the semester, I will analyze the key factors that contribute to team success in the Turkish Football Süper Lig. By examining factors like squad value, player age, running distance, match scheduling, attacking pressure, ball possession, shooting frequency,and passing efficiency, I aim to determine which indicators have the strongest effect on overall league standings. Using data visualization and statistical tools, I will examine match data and financial data, and evaluate whether these factors translate into better performance on the field. My goal is to provide insights into what influences team success in the Turkish Football Süper Lig. 
+For the rest of the semester, I will analyze the key factors that contribute to team success in the Turkish Football Süper Lig. By examining factors like squad value, player age, running distance, match scheduling, attacking pressure, ball possession, shooting frequency,and passing efficiency, I aim to determine which indicators have the strongest effect on overall league standings. Using data visualization and statistical tools, I will examine match data and financial data, and evaluate whether these factors translate into better performance on the field. My goal is to provide insights into what influences team success in the Turkish Football Süper Lig.
 
 ## Objectives  
 
