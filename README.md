@@ -1,8 +1,8 @@
-# Turkish Football Süper Lig Success Analysis - DSA210 Project 
+# England Premier League Success Analysis - DSA210 Project 
 
 ## Project Overview
 
-For the rest of the semester, I will analyze the key factors that contribute to team success in the Turkish Football Süper Lig. By examining factors like squad value, player age, running distance, match scheduling, attacking pressure, ball possession, shooting frequency,and passing efficiency, I aim to determine which indicators have the strongest effect on overall league standings. Using data visualization and statistical tools, I will examine match data and financial data, and evaluate whether these factors translate into better performance on the field. My goal is to provide insights into what influences team success in the Turkish Football Süper Lig.
+For the rest of the semester, I will analyze the key factors that contribute to team success in the England Premir League. By examining factors like squad value, player age, running distance, match scheduling, attacking pressure, ball possession, shooting frequency,and passing efficiency, I aim to determine which indicators have the strongest effect on overall league standings. Using data visualization and statistical tools, I will examine match data and financial data, and evaluate whether these factors translate into better performance on the field. My goal is to provide insights into what influences team success in the England Premier League.
 
 ## Objectives  
 
@@ -104,7 +104,7 @@ By the end of this project, I hope to answer:
 - Do teams struggle more in weekday matches compared to weekends?  
 - Can we accurately predict team performance using ML models?
 
-This project will provide valuable football analytics insights while applying data science and machine learning to a real-world problem.I want to analyze past data and predict the win, draw, and loss percentages of the teams in the Turkish Football Süper Lig.
+This project will provide valuable football analytics insights while applying data science and machine learning to a real-world problem.I want to analyze past data and predict the win, draw, and loss percentages of the teams in the England Premir League.
 
 
 
