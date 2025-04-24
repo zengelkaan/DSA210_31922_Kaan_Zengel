@@ -82,8 +82,14 @@ For data analysis and visualization, I will use:
   
 ### **Hypothesis Testing**  
 -Test hypotheses like: 
- - **H₀:** Squad value, player age, and running distance have no significant effect on team performance.  
- - **Hₐ:** Teams with higher ball possession, higher shots and higher penalty box touches tend to perform better.
+ - **H₀**: There is no significant difference in goals per match between teams with a squad market value greater than €800 million and those with a lower squad market value.
+ - **H₁**: Teams with a squad market value greater than €800 million have a significantly higher goals per match average.
+   
+ - **H₀**: There is no association between the number of foreign players (non-domestic) and whether a team finishes in the top 6 of the league table.
+ - **H₁**: Teams with more foreign players are more likely to finish in the top 6.
+   
+ - **H₀**: There is no significant correlation between expected goals against (xGA) and total points earned.
+ - **H₁**: There is a significant negative correlation between expected goals against (xGA) and total points earned — teams with lower xGA tend to earn more points.
 
 ## Example Analysis  
 
