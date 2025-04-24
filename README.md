@@ -13,7 +13,8 @@ For the rest of the semester, I will analyze the key factors that contribute to 
    - Identify whether squad value and team age distribution correlate with league performance.  
      
 3. **Identify Key Factors**
-   - Identify which indicators have greatest impact on team success.       
+   - Identify which indicators have greatest impact on team success.
+   - Identify whether the match is home or away.
 
 4. **Data-Driven Predictions**  
    - Build models with machine learning to have insight about league outcomes based on team statistics.  
